@@ -1,0 +1,724 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:14.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\3.12.0\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\3.12.0\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\3.12.0\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.67
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/3.12.0/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:15.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\3.12.0\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\3.12.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\3.12.0\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.68
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/3.12.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_85f92.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:16.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_85f92.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_85f92.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_85f92.dir\Debug\cmTC_85f92.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_85f92.dir\Debug\cmTC_85f92.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_85f92.dir\Debug\\" /Fd"cmTC_85f92.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_85f92.dir\Debug\\" /Fd"cmTC_85f92.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\testCCompiler.c"
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_85f92.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_85f92.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_85f92.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_85f92.dir\Debug\testCCompiler.obj
+  cmTC_85f92.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_85f92.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_85f92.dir\Debug\cmTC_85f92.tlog\unsuccessfulbuild".
+  Touching "cmTC_85f92.dir\Debug\cmTC_85f92.tlog\cmTC_85f92.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_85f92.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.81
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_472b5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:17.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_472b5.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_472b5.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_472b5.dir\Debug\cmTC_472b5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_472b5.dir\Debug\cmTC_472b5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_472b5.dir\Debug\\" /Fd"cmTC_472b5.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_472b5.dir\Debug\\" /Fd"cmTC_472b5.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.12\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_472b5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_472b5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_472b5.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_472b5.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_472b5.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_472b5.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_472b5.dir\Debug\cmTC_472b5.tlog\unsuccessfulbuild".
+  Touching "cmTC_472b5.dir\Debug\cmTC_472b5.tlog\cmTC_472b5.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_472b5.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.72
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_44299.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:18.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_44299.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_44299.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_44299.dir\Debug\cmTC_44299.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_44299.dir\Debug\cmTC_44299.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_44299.dir\Debug\\" /Fd"cmTC_44299.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\feature_tests.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_44299.dir\Debug\\" /Fd"cmTC_44299.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\feature_tests.c"
+  feature_tests.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_44299.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_44299.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_44299.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_44299.dir\Debug\feature_tests.obj
+  cmTC_44299.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_44299.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_44299.dir\Debug\cmTC_44299.tlog\unsuccessfulbuild".
+  Touching "cmTC_44299.dir\Debug\cmTC_44299.tlog\cmTC_44299.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_44299.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.74
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros
+Determining if the CXX compiler works passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_5a0f8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:19.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_5a0f8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_5a0f8.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_5a0f8.dir\Debug\cmTC_5a0f8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_5a0f8.dir\Debug\cmTC_5a0f8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5a0f8.dir\Debug\\" /Fd"cmTC_5a0f8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5a0f8.dir\Debug\\" /Fd"cmTC_5a0f8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_5a0f8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_5a0f8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_5a0f8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_5a0f8.dir\Debug\testCXXCompiler.obj
+  cmTC_5a0f8.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_5a0f8.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_5a0f8.dir\Debug\cmTC_5a0f8.tlog\unsuccessfulbuild".
+  Touching "cmTC_5a0f8.dir\Debug\cmTC_5a0f8.tlog\cmTC_5a0f8.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_5a0f8.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.73
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_fe43a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:20.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_fe43a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_fe43a.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_fe43a.dir\Debug\cmTC_fe43a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_fe43a.dir\Debug\cmTC_fe43a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fe43a.dir\Debug\\" /Fd"cmTC_fe43a.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_fe43a.dir\Debug\\" /Fd"cmTC_fe43a.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.12\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_fe43a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_fe43a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_fe43a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_fe43a.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_fe43a.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_fe43a.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_fe43a.dir\Debug\cmTC_fe43a.tlog\unsuccessfulbuild".
+  Touching "cmTC_fe43a.dir\Debug\cmTC_fe43a.tlog\cmTC_fe43a.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_fe43a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.74
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_39322.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:21.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_39322.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_39322.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_39322.dir\Debug\cmTC_39322.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_39322.dir\Debug\cmTC_39322.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_39322.dir\Debug\\" /Fd"cmTC_39322.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_39322.dir\Debug\\" /Fd"cmTC_39322.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\feature_tests.cxx"
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_39322.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_39322.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_39322.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_39322.dir\Debug\feature_tests.obj
+  cmTC_39322.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_39322.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_39322.dir\Debug\cmTC_39322.tlog\unsuccessfulbuild".
+  Touching "cmTC_39322.dir\Debug\cmTC_39322.tlog\cmTC_39322.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_39322.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.75
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file d3dcompiler.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_bfacc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:38.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_bfacc.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_bfacc.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_bfacc.dir\Debug\cmTC_bfacc.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_bfacc.dir\Debug\cmTC_bfacc.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_bfacc.dir\Debug\\" /Fd"cmTC_bfacc.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_bfacc.dir\Debug\\" /Fd"cmTC_bfacc.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_bfacc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_bfacc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_bfacc.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_bfacc.dir\Debug\CheckIncludeFile.obj
+  cmTC_bfacc.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_bfacc.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_bfacc.dir\Debug\cmTC_bfacc.tlog\unsuccessfulbuild".
+  Touching "cmTC_bfacc.dir\Debug\cmTC_bfacc.tlog\cmTC_bfacc.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_bfacc.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.16
+
+
+Determining if the include file d3d9.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_07481.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:39.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_07481.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_07481.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_07481.dir\Debug\cmTC_07481.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_07481.dir\Debug\cmTC_07481.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_07481.dir\Debug\\" /Fd"cmTC_07481.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_07481.dir\Debug\\" /Fd"cmTC_07481.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_07481.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_07481.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_07481.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_07481.dir\Debug\CheckIncludeFile.obj
+  cmTC_07481.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_07481.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_07481.dir\Debug\cmTC_07481.tlog\unsuccessfulbuild".
+  Touching "cmTC_07481.dir\Debug\cmTC_07481.tlog\cmTC_07481.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_07481.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.16
+
+
+Determining if the include file d3d11.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1886e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:40.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_1886e.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1886e.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1886e.dir\Debug\cmTC_1886e.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1886e.dir\Debug\cmTC_1886e.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1886e.dir\Debug\\" /Fd"cmTC_1886e.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1886e.dir\Debug\\" /Fd"cmTC_1886e.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_1886e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_1886e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_1886e.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_1886e.dir\Debug\CheckIncludeFile.obj
+  cmTC_1886e.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_1886e.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_1886e.dir\Debug\cmTC_1886e.tlog\unsuccessfulbuild".
+  Touching "cmTC_1886e.dir\Debug\cmTC_1886e.tlog\cmTC_1886e.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_1886e.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.22
+
+
+Determining if the include file ddraw.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f6fdc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:42.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_f6fdc.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f6fdc.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_f6fdc.dir\Debug\cmTC_f6fdc.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f6fdc.dir\Debug\cmTC_f6fdc.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f6fdc.dir\Debug\\" /Fd"cmTC_f6fdc.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f6fdc.dir\Debug\\" /Fd"cmTC_f6fdc.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_f6fdc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_f6fdc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_f6fdc.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f6fdc.dir\Debug\CheckIncludeFile.obj
+  cmTC_f6fdc.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_f6fdc.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_f6fdc.dir\Debug\cmTC_f6fdc.tlog\unsuccessfulbuild".
+  Touching "cmTC_f6fdc.dir\Debug\cmTC_f6fdc.tlog\cmTC_f6fdc.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_f6fdc.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.15
+
+
+Determining if the include file dsound.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_b6869.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:43.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_b6869.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b6869.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b6869.dir\Debug\cmTC_b6869.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b6869.dir\Debug\cmTC_b6869.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b6869.dir\Debug\\" /Fd"cmTC_b6869.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b6869.dir\Debug\\" /Fd"cmTC_b6869.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_b6869.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_b6869.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_b6869.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_b6869.dir\Debug\CheckIncludeFile.obj
+  cmTC_b6869.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_b6869.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_b6869.dir\Debug\cmTC_b6869.tlog\unsuccessfulbuild".
+  Touching "cmTC_b6869.dir\Debug\cmTC_b6869.tlog\cmTC_b6869.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_b6869.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.17
+
+
+Determining if the include file dinput.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_704b8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:44.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_704b8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_704b8.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_704b8.dir\Debug\cmTC_704b8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_704b8.dir\Debug\cmTC_704b8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_704b8.dir\Debug\\" /Fd"cmTC_704b8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_704b8.dir\Debug\\" /Fd"cmTC_704b8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_704b8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_704b8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_704b8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_704b8.dir\Debug\CheckIncludeFile.obj
+  cmTC_704b8.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_704b8.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_704b8.dir\Debug\cmTC_704b8.tlog\unsuccessfulbuild".
+  Touching "cmTC_704b8.dir\Debug\cmTC_704b8.tlog\cmTC_704b8.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_704b8.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.14
+
+
+Determining if the include file dxgi.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_51827.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:46.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_51827.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_51827.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_51827.dir\Debug\cmTC_51827.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_51827.dir\Debug\cmTC_51827.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_51827.dir\Debug\\" /Fd"cmTC_51827.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_51827.dir\Debug\\" /Fd"cmTC_51827.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_51827.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_51827.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_51827.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_51827.dir\Debug\CheckIncludeFile.obj
+  cmTC_51827.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_51827.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_51827.dir\Debug\cmTC_51827.tlog\unsuccessfulbuild".
+  Touching "cmTC_51827.dir\Debug\cmTC_51827.tlog\cmTC_51827.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_51827.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.15
+
+
+Determining if the include file xaudio2.h exists passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_98eb8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:47.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_98eb8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_98eb8.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_98eb8.dir\Debug\cmTC_98eb8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_98eb8.dir\Debug\cmTC_98eb8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_98eb8.dir\Debug\\" /Fd"cmTC_98eb8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_98eb8.dir\Debug\\" /Fd"cmTC_98eb8.dir\Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_98eb8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_98eb8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_98eb8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_98eb8.dir\Debug\CheckIncludeFile.obj
+  cmTC_98eb8.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_98eb8.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_98eb8.dir\Debug\cmTC_98eb8.tlog\unsuccessfulbuild".
+  Touching "cmTC_98eb8.dir\Debug\cmTC_98eb8.tlog\cmTC_98eb8.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_98eb8.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.16
+
+
+Determining if files windows.h;xinput.h exist passed with the following output:
+Change Dir: X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_59f70.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.5.180.51428 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 04/08/2019 12:19:48.
+Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_59f70.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_59f70.dir\Debug\".
+  Creating directory "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_59f70.dir\Debug\cmTC_59f70.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_59f70.dir\Debug\cmTC_59f70.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_59f70.dir\Debug\\" /Fd"cmTC_59f70.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CheckIncludeFiles\HAVE_XINPUT_H.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.12.25835 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_59f70.dir\Debug\\" /Fd"cmTC_59f70.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CheckIncludeFiles\HAVE_XINPUT_H.c"
+  HAVE_XINPUT_H.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_59f70.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_59f70.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"X:/Github Projects/Urho3D-multiplayer-space-boids-game/Urho3D-Boids-VS17/CMakeFiles/CMakeTmp/Debug/cmTC_59f70.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_59f70.dir\Debug\HAVE_XINPUT_H.obj
+  cmTC_59f70.vcxproj -> X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\Debug\cmTC_59f70.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_59f70.dir\Debug\cmTC_59f70.tlog\unsuccessfulbuild".
+  Touching "cmTC_59f70.dir\Debug\cmTC_59f70.tlog\cmTC_59f70.lastbuildstate".
+Done Building Project "X:\Github Projects\Urho3D-multiplayer-space-boids-game\Urho3D-Boids-VS17\CMakeFiles\CMakeTmp\cmTC_59f70.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.02
+
+
