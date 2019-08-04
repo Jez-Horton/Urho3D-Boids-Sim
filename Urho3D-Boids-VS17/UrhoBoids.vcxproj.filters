@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\CharacterDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Missile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Touch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\boids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\CharacterDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Missile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Sample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\Touch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\boids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\bin\CoreData">
+      <Filter>Resource Dirs</Filter>
+    </None>
+    <None Include="X:\Github Projects\Urho3D-Boids-Sim\Urho3D-Boids\bin\Data">
+      <Filter>Resource Dirs</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{90F69AC3-4FE6-3762-8524-1266C167DFD6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Dirs">
+      <UniqueIdentifier>{561E7AA1-C693-30EC-893E-B8910D8AC7EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DE439FC1-930C-3BDB-B688-D1E2D27C118E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
