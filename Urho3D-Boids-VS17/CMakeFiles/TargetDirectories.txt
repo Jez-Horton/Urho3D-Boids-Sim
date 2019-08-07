@@ -1,4 +1,0 @@
-X:/Github Projects/Urho3D-Boids-Sim/Urho3D-Boids-VS17/CMakeFiles/UrhoBoids.dir
-X:/Github Projects/Urho3D-Boids-Sim/Urho3D-Boids-VS17/CMakeFiles/INSTALL.dir
-X:/Github Projects/Urho3D-Boids-Sim/Urho3D-Boids-VS17/CMakeFiles/ALL_BUILD.dir
-X:/Github Projects/Urho3D-Boids-Sim/Urho3D-Boids-VS17/CMakeFiles/ZERO_CHECK.dir
